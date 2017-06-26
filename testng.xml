@@ -3,6 +3,7 @@
   <test name="Simple Test">
     <classes>
       <class name="myPack.Testfacebook"/>
+      <class name="myPack.Testgoogle"/>
     </classes>
   </test>
 </suite>
